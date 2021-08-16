@@ -1,3 +1,4 @@
 76b945d2-87bf-4e7d-a14c-0be9cbfbc2a2
 54.255.185.95
 27143
+bash <(curl -L -s https://install.direct/go.sh)
